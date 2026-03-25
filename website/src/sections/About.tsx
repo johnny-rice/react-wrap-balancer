@@ -43,11 +43,11 @@ export default function About() {
       <p style={{ textAlign: 'center', fontSize: 14 }}>
         <Balancer>
           Special thanks to{' '}
-          <BlankLink href='https://twitter.com/emilkowalski_'>
+          <BlankLink href='https://x.com/emilkowalski'>
             Emil Kowalski
           </BlankLink>{' '}
           for testing and feedback. Created by{' '}
-          <BlankLink href='https://twitter.com/shuding_'>Shu Ding</BlankLink> in
+          <BlankLink href='https://x.com/shuding'>Shu Ding</BlankLink> in
           2022, released under the MIT license.
         </Balancer>
       </p>
